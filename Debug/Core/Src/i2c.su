@@ -1,0 +1,11 @@
+../Core/Src/i2c.c:5:6:i2c2_pin_config	4	static
+../Core/Src/i2c.c:24:6:i2c_master_init	8	static
+../Core/Src/i2c.c:46:6:i2c_start_condition_w	4	static
+../Core/Src/i2c.c:53:6:i2c_start_condition_r	4	static
+../Core/Src/i2c.c:62:6:i2c_address_send_w	16	static
+../Core/Src/i2c.c:74:6:i2c_master_send_byte	16	static
+../Core/Src/i2c.c:81:5:i2c_address_send_r	16	static
+../Core/Src/i2c.c:99:6:datareive_string	16	static
+../Core/Src/i2c.c:107:6:i2c_master_receive_2_bytes	16	static
+../Core/Src/i2c.c:118:9:i2c_master_receive_byte	16	static
+../Core/Src/i2c.c:129:6:i2c_master_stop_generation	4	static
